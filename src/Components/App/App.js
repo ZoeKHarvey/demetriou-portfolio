@@ -13,3 +13,9 @@ function App() {
 }
 
 export default App;
+
+// continue to about 
+
+// projects
+
+// contact

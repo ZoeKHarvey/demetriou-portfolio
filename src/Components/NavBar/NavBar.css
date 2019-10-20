@@ -1,0 +1,14 @@
+
+
+.section__ul--navbar {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+}
+
+.li--navbar:hover {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
